@@ -1,0 +1,15 @@
+/home/hlam/Desktop/HDH/RoundRobin/bin/Debug/net7.0/RoundRobin
+/home/hlam/Desktop/HDH/RoundRobin/bin/Debug/net7.0/RoundRobin.deps.json
+/home/hlam/Desktop/HDH/RoundRobin/bin/Debug/net7.0/RoundRobin.runtimeconfig.json
+/home/hlam/Desktop/HDH/RoundRobin/bin/Debug/net7.0/RoundRobin.dll
+/home/hlam/Desktop/HDH/RoundRobin/bin/Debug/net7.0/RoundRobin.pdb
+/home/hlam/Desktop/HDH/RoundRobin/obj/Debug/net7.0/RoundRobin.csproj.AssemblyReference.cache
+/home/hlam/Desktop/HDH/RoundRobin/obj/Debug/net7.0/RoundRobin.GeneratedMSBuildEditorConfig.editorconfig
+/home/hlam/Desktop/HDH/RoundRobin/obj/Debug/net7.0/RoundRobin.AssemblyInfoInputs.cache
+/home/hlam/Desktop/HDH/RoundRobin/obj/Debug/net7.0/RoundRobin.AssemblyInfo.cs
+/home/hlam/Desktop/HDH/RoundRobin/obj/Debug/net7.0/RoundRobin.csproj.CoreCompileInputs.cache
+/home/hlam/Desktop/HDH/RoundRobin/obj/Debug/net7.0/RoundRobin.dll
+/home/hlam/Desktop/HDH/RoundRobin/obj/Debug/net7.0/refint/RoundRobin.dll
+/home/hlam/Desktop/HDH/RoundRobin/obj/Debug/net7.0/RoundRobin.pdb
+/home/hlam/Desktop/HDH/RoundRobin/obj/Debug/net7.0/RoundRobin.genruntimeconfig.cache
+/home/hlam/Desktop/HDH/RoundRobin/obj/Debug/net7.0/ref/RoundRobin.dll

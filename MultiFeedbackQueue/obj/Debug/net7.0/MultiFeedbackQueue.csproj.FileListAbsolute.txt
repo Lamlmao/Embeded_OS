@@ -1,0 +1,15 @@
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/bin/Debug/net7.0/MultiFeedbackQueue
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/bin/Debug/net7.0/MultiFeedbackQueue.deps.json
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/bin/Debug/net7.0/MultiFeedbackQueue.runtimeconfig.json
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/bin/Debug/net7.0/MultiFeedbackQueue.dll
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/bin/Debug/net7.0/MultiFeedbackQueue.pdb
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/obj/Debug/net7.0/MultiFeedbackQueue.csproj.AssemblyReference.cache
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/obj/Debug/net7.0/MultiFeedbackQueue.GeneratedMSBuildEditorConfig.editorconfig
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/obj/Debug/net7.0/MultiFeedbackQueue.AssemblyInfoInputs.cache
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/obj/Debug/net7.0/MultiFeedbackQueue.AssemblyInfo.cs
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/obj/Debug/net7.0/MultiFeedbackQueue.csproj.CoreCompileInputs.cache
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/obj/Debug/net7.0/MultiFeedbackQueue.dll
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/obj/Debug/net7.0/refint/MultiFeedbackQueue.dll
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/obj/Debug/net7.0/MultiFeedbackQueue.pdb
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/obj/Debug/net7.0/MultiFeedbackQueue.genruntimeconfig.cache
+/home/hlam/Desktop/HDH/MultiFeedbackQueue/obj/Debug/net7.0/ref/MultiFeedbackQueue.dll

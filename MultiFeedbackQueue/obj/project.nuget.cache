@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W6mgusX9gstviq68//a/xmmFlLcp15N2Oo4aVHms2q2IWBFCRAtdY6hIrK1bn2K0VGNZMnxOMrSeP4gK3W8BPg==",
+  "success": true,
+  "projectFilePath": "/home/hlam/Desktop/HDH/MultiFeedbackQueue/MultiFeedbackQueue.csproj",
+  "expectedPackageFiles": [
+    "/home/hlam/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

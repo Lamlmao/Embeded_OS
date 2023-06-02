@@ -1,0 +1,15 @@
+/home/hlam/Desktop/HDH/FirstComeFirstServe/bin/Debug/net7.0/FirstComeFirstServe
+/home/hlam/Desktop/HDH/FirstComeFirstServe/bin/Debug/net7.0/FirstComeFirstServe.deps.json
+/home/hlam/Desktop/HDH/FirstComeFirstServe/bin/Debug/net7.0/FirstComeFirstServe.runtimeconfig.json
+/home/hlam/Desktop/HDH/FirstComeFirstServe/bin/Debug/net7.0/FirstComeFirstServe.dll
+/home/hlam/Desktop/HDH/FirstComeFirstServe/bin/Debug/net7.0/FirstComeFirstServe.pdb
+/home/hlam/Desktop/HDH/FirstComeFirstServe/obj/Debug/net7.0/FirstComeFirstServe.csproj.AssemblyReference.cache
+/home/hlam/Desktop/HDH/FirstComeFirstServe/obj/Debug/net7.0/FirstComeFirstServe.GeneratedMSBuildEditorConfig.editorconfig
+/home/hlam/Desktop/HDH/FirstComeFirstServe/obj/Debug/net7.0/FirstComeFirstServe.AssemblyInfoInputs.cache
+/home/hlam/Desktop/HDH/FirstComeFirstServe/obj/Debug/net7.0/FirstComeFirstServe.AssemblyInfo.cs
+/home/hlam/Desktop/HDH/FirstComeFirstServe/obj/Debug/net7.0/FirstComeFirstServe.csproj.CoreCompileInputs.cache
+/home/hlam/Desktop/HDH/FirstComeFirstServe/obj/Debug/net7.0/FirstComeFirstServe.dll
+/home/hlam/Desktop/HDH/FirstComeFirstServe/obj/Debug/net7.0/refint/FirstComeFirstServe.dll
+/home/hlam/Desktop/HDH/FirstComeFirstServe/obj/Debug/net7.0/FirstComeFirstServe.pdb
+/home/hlam/Desktop/HDH/FirstComeFirstServe/obj/Debug/net7.0/FirstComeFirstServe.genruntimeconfig.cache
+/home/hlam/Desktop/HDH/FirstComeFirstServe/obj/Debug/net7.0/ref/FirstComeFirstServe.dll

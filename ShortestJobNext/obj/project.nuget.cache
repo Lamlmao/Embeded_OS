@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Me6gyl3a4KdbcnlptxomcL+yJbxD93fcF0PljgRJt5TX4CDdRdveaneKB0wHPYZDvvkZH7tvPW+oHz00rOSgXg==",
+  "success": true,
+  "projectFilePath": "/home/hlam/Desktop/HDH/ShortestJobNext/ShortestJobNext.csproj",
+  "expectedPackageFiles": [
+    "/home/hlam/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

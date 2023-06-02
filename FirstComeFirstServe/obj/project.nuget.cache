@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/9kgg1pISxdDUFBvIzd931C31w8yc3LzIEuG9gxITmoY33xIxA+AQ0amshblGp4wXkdg97vb1vsA+buDrT6og==",
+  "success": true,
+  "projectFilePath": "/home/hlam/Desktop/HDH/FirstComeFirstServe/FirstComeFirstServe.csproj",
+  "expectedPackageFiles": [
+    "/home/hlam/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

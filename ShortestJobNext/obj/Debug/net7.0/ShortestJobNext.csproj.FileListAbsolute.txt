@@ -1,0 +1,15 @@
+/home/hlam/Desktop/HDH/ShortestJobNext/bin/Debug/net7.0/ShortestJobNext
+/home/hlam/Desktop/HDH/ShortestJobNext/bin/Debug/net7.0/ShortestJobNext.deps.json
+/home/hlam/Desktop/HDH/ShortestJobNext/bin/Debug/net7.0/ShortestJobNext.runtimeconfig.json
+/home/hlam/Desktop/HDH/ShortestJobNext/bin/Debug/net7.0/ShortestJobNext.dll
+/home/hlam/Desktop/HDH/ShortestJobNext/bin/Debug/net7.0/ShortestJobNext.pdb
+/home/hlam/Desktop/HDH/ShortestJobNext/obj/Debug/net7.0/ShortestJobNext.csproj.AssemblyReference.cache
+/home/hlam/Desktop/HDH/ShortestJobNext/obj/Debug/net7.0/ShortestJobNext.GeneratedMSBuildEditorConfig.editorconfig
+/home/hlam/Desktop/HDH/ShortestJobNext/obj/Debug/net7.0/ShortestJobNext.AssemblyInfoInputs.cache
+/home/hlam/Desktop/HDH/ShortestJobNext/obj/Debug/net7.0/ShortestJobNext.AssemblyInfo.cs
+/home/hlam/Desktop/HDH/ShortestJobNext/obj/Debug/net7.0/ShortestJobNext.csproj.CoreCompileInputs.cache
+/home/hlam/Desktop/HDH/ShortestJobNext/obj/Debug/net7.0/ShortestJobNext.dll
+/home/hlam/Desktop/HDH/ShortestJobNext/obj/Debug/net7.0/refint/ShortestJobNext.dll
+/home/hlam/Desktop/HDH/ShortestJobNext/obj/Debug/net7.0/ShortestJobNext.pdb
+/home/hlam/Desktop/HDH/ShortestJobNext/obj/Debug/net7.0/ShortestJobNext.genruntimeconfig.cache
+/home/hlam/Desktop/HDH/ShortestJobNext/obj/Debug/net7.0/ref/ShortestJobNext.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vjmHZBIfMAXYuMUcAru5ouiqYBPiXjjBm06MF1O0CVbsxSsOws4mTlPe2qTFhRSiRltZkzl8OERpKr9ANXN3g==",
+  "success": true,
+  "projectFilePath": "/home/hlam/Desktop/HDH/PriorityBasedScheduler/PriorityBasedScheduler.csproj",
+  "expectedPackageFiles": [
+    "/home/hlam/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
