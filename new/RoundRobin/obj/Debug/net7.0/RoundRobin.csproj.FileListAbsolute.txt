@@ -1,0 +1,15 @@
+/home/hlam/Embeded_OS/new/RoundRobin/bin/Debug/net7.0/RoundRobin
+/home/hlam/Embeded_OS/new/RoundRobin/bin/Debug/net7.0/RoundRobin.deps.json
+/home/hlam/Embeded_OS/new/RoundRobin/bin/Debug/net7.0/RoundRobin.runtimeconfig.json
+/home/hlam/Embeded_OS/new/RoundRobin/bin/Debug/net7.0/RoundRobin.dll
+/home/hlam/Embeded_OS/new/RoundRobin/bin/Debug/net7.0/RoundRobin.pdb
+/home/hlam/Embeded_OS/new/RoundRobin/obj/Debug/net7.0/RoundRobin.csproj.AssemblyReference.cache
+/home/hlam/Embeded_OS/new/RoundRobin/obj/Debug/net7.0/RoundRobin.GeneratedMSBuildEditorConfig.editorconfig
+/home/hlam/Embeded_OS/new/RoundRobin/obj/Debug/net7.0/RoundRobin.AssemblyInfoInputs.cache
+/home/hlam/Embeded_OS/new/RoundRobin/obj/Debug/net7.0/RoundRobin.AssemblyInfo.cs
+/home/hlam/Embeded_OS/new/RoundRobin/obj/Debug/net7.0/RoundRobin.csproj.CoreCompileInputs.cache
+/home/hlam/Embeded_OS/new/RoundRobin/obj/Debug/net7.0/RoundRobin.dll
+/home/hlam/Embeded_OS/new/RoundRobin/obj/Debug/net7.0/refint/RoundRobin.dll
+/home/hlam/Embeded_OS/new/RoundRobin/obj/Debug/net7.0/RoundRobin.pdb
+/home/hlam/Embeded_OS/new/RoundRobin/obj/Debug/net7.0/RoundRobin.genruntimeconfig.cache
+/home/hlam/Embeded_OS/new/RoundRobin/obj/Debug/net7.0/ref/RoundRobin.dll

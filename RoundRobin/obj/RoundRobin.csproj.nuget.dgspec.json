@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hlam/Desktop/HDH/RoundRobin/RoundRobin.csproj": {}
+    "/home/hlam/Embeded_OS/RoundRobin/RoundRobin.csproj": {}
   },
   "projects": {
-    "/home/hlam/Desktop/HDH/RoundRobin/RoundRobin.csproj": {
+    "/home/hlam/Embeded_OS/RoundRobin/RoundRobin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hlam/Desktop/HDH/RoundRobin/RoundRobin.csproj",
+        "projectUniqueName": "/home/hlam/Embeded_OS/RoundRobin/RoundRobin.csproj",
         "projectName": "RoundRobin",
-        "projectPath": "/home/hlam/Desktop/HDH/RoundRobin/RoundRobin.csproj",
+        "projectPath": "/home/hlam/Embeded_OS/RoundRobin/RoundRobin.csproj",
         "packagesPath": "/home/hlam/.nuget/packages/",
-        "outputPath": "/home/hlam/Desktop/HDH/RoundRobin/obj/",
+        "outputPath": "/home/hlam/Embeded_OS/RoundRobin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hlam/.nuget/NuGet/NuGet.Config"

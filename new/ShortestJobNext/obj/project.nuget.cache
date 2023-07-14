@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KBpM1aLpR4sFvxb6RkXhMqIXcIUS4uxxbzdI0pvJqPaeEKPjk2KSSoxA5O4ixCRClRPDvJcGMBEUS+e59ONONg==",
+  "success": true,
+  "projectFilePath": "/home/hlam/Embeded_OS/new/ShortestJobNext/ShortestJobNext.csproj",
+  "expectedPackageFiles": [
+    "/home/hlam/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

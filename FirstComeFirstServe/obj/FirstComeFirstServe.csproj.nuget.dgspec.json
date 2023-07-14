@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hlam/Desktop/HDH/FirstComeFirstServe/FirstComeFirstServe.csproj": {}
+    "/home/hlam/Embeded_OS/FirstComeFirstServe/FirstComeFirstServe.csproj": {}
   },
   "projects": {
-    "/home/hlam/Desktop/HDH/FirstComeFirstServe/FirstComeFirstServe.csproj": {
+    "/home/hlam/Embeded_OS/FirstComeFirstServe/FirstComeFirstServe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hlam/Desktop/HDH/FirstComeFirstServe/FirstComeFirstServe.csproj",
+        "projectUniqueName": "/home/hlam/Embeded_OS/FirstComeFirstServe/FirstComeFirstServe.csproj",
         "projectName": "FirstComeFirstServe",
-        "projectPath": "/home/hlam/Desktop/HDH/FirstComeFirstServe/FirstComeFirstServe.csproj",
+        "projectPath": "/home/hlam/Embeded_OS/FirstComeFirstServe/FirstComeFirstServe.csproj",
         "packagesPath": "/home/hlam/.nuget/packages/",
-        "outputPath": "/home/hlam/Desktop/HDH/FirstComeFirstServe/obj/",
+        "outputPath": "/home/hlam/Embeded_OS/FirstComeFirstServe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hlam/.nuget/NuGet/NuGet.Config"

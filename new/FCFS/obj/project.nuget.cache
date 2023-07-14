@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fnkuuZ7pYat6PCi4dCZkCDDqzvnonGYdqPNBC07UZTW+qTar8ruj6rhCD9YQeUYlv0Ha/gNQ4sXRndnoITWFdw==",
+  "success": true,
+  "projectFilePath": "/home/hlam/Embeded_OS/new/FCFS/FCFS.csproj",
+  "expectedPackageFiles": [
+    "/home/hlam/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

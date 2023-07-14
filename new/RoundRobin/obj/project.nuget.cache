@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AzUKdMfbrt6QcoaV+IpI20GN9kjduaIbSS74Y8lF9Ism+21q8fzZDjAb5g41Ey+u+FlhCwZIcJWkUZ7rQ/mPkg==",
+  "success": true,
+  "projectFilePath": "/home/hlam/Embeded_OS/new/RoundRobin/RoundRobin.csproj",
+  "expectedPackageFiles": [
+    "/home/hlam/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

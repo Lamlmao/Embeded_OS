@@ -1,0 +1,15 @@
+/home/hlam/Embeded_OS/new/FCFS/bin/Debug/net7.0/FCFS
+/home/hlam/Embeded_OS/new/FCFS/bin/Debug/net7.0/FCFS.deps.json
+/home/hlam/Embeded_OS/new/FCFS/bin/Debug/net7.0/FCFS.runtimeconfig.json
+/home/hlam/Embeded_OS/new/FCFS/bin/Debug/net7.0/FCFS.dll
+/home/hlam/Embeded_OS/new/FCFS/bin/Debug/net7.0/FCFS.pdb
+/home/hlam/Embeded_OS/new/FCFS/obj/Debug/net7.0/FCFS.csproj.AssemblyReference.cache
+/home/hlam/Embeded_OS/new/FCFS/obj/Debug/net7.0/FCFS.GeneratedMSBuildEditorConfig.editorconfig
+/home/hlam/Embeded_OS/new/FCFS/obj/Debug/net7.0/FCFS.AssemblyInfoInputs.cache
+/home/hlam/Embeded_OS/new/FCFS/obj/Debug/net7.0/FCFS.AssemblyInfo.cs
+/home/hlam/Embeded_OS/new/FCFS/obj/Debug/net7.0/FCFS.csproj.CoreCompileInputs.cache
+/home/hlam/Embeded_OS/new/FCFS/obj/Debug/net7.0/FCFS.dll
+/home/hlam/Embeded_OS/new/FCFS/obj/Debug/net7.0/refint/FCFS.dll
+/home/hlam/Embeded_OS/new/FCFS/obj/Debug/net7.0/FCFS.pdb
+/home/hlam/Embeded_OS/new/FCFS/obj/Debug/net7.0/FCFS.genruntimeconfig.cache
+/home/hlam/Embeded_OS/new/FCFS/obj/Debug/net7.0/ref/FCFS.dll
