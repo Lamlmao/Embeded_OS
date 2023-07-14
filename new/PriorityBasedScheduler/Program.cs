@@ -15,12 +15,21 @@ public class Task
 public class PriorityBasedScheduler
 {
     private PriorityQueue<Task> taskQueue;
-    private PriorityQueue<Task> queue1;
+    private Task[] tasks1 = new Task[5];
 
-    private List<Task> task1 = new List<Task>();
     public PriorityBasedScheduler(List<Task> tasks)
     {
-        
+        int i = 0;
+        foreach (var task in tasks)
+        {
+            tasks1[i++] = new Task()
+            {
+                Name = task.Name,
+                BurstTime = task.BurstTime,
+                ArrivalTime = task.ArrivalTime,
+                Priority = task.Priority
+            };
+        }
         tasks.Sort((task1, task2) => task1.ArrivalTime.CompareTo(task2.ArrivalTime));
         taskQueue = new PriorityQueue<Task>(tasks, Comparer<Task>.Create((task1, task2) => task1.Priority.CompareTo(task2.Priority)));
     }
@@ -29,7 +38,7 @@ public class PriorityBasedScheduler
     {
         Console.WriteLine("\nTask execution statistics:\n");
         Console.WriteLine("Task\t Arrival Time\t Burst Time\t Priority");
-        foreach (Task task in taskQueue)
+        foreach (Task task in tasks1)
         {
             Console.WriteLine($"{task.Name}\t{task.ArrivalTime}\t\t{task.BurstTime}\t\t{task.Priority}\t\t");
         }
@@ -102,7 +111,9 @@ public class Program
             {
                 Name = $"Task {i}",
                 ArrivalTime = random.Next(0, 10),
-                BurstTime = random.Next(1, 10)
+                BurstTime = random.Next(1, 10),
+                Priority = random.Next(1,10)
+                
             };
             tasks.Add(task);
         }

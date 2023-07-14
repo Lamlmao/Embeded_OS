@@ -16,7 +16,7 @@ public class FCFSScheduler
     private Queue<Task> taskQueue;
 
     private Queue<Task> secondTaskQueue;
-    
+
     public FCFSScheduler(List<Task> tasks)
     {
         secondTaskQueue = new Queue<Task>(tasks);
@@ -38,12 +38,12 @@ public class FCFSScheduler
 
             task.WaitingTime = currentTime - task.ArrivalTime;
             task.TurnaroundTime = task.WaitingTime + task.BurstTime;
-            
+
             Console.WriteLine($"Executing task '{task.Name}' from time {currentTime} to {currentTime + task.BurstTime}");
             currentTime += task.BurstTime;
         }
     }
-        public void PrintTaskStats()
+    public void PrintTaskStats()
     {
         Console.WriteLine("\nTask execution statistics:\n");
         Console.WriteLine("Task\tArrival Time\tBurst Time\tWaiting Time\tTurnaround Time");
